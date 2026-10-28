@@ -5,10 +5,14 @@ html {
 
 h1{
     font-size: 15rem;
+    margin-left: 400px;
 }
 
 .nav-bar {
     font-size: 4rem;
     background-color: rgba(137, 43, 226, 0.3);
+
+    display: flex;
+    justify-content: center;
     
 }
